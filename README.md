@@ -24,7 +24,7 @@ This Kbase SDK installer users **Oracle VirtualBox** and **Vagrant** to create K
 
 After performing OS specific tasks, the following instructions are for both MacOS and Windows.
 
-* Download Kbase SDK Installer [Download Link](https://github.com/url).
+* Download Kbase SDK Installer [Download Link](https://github.com/gkora/KbaseSDK/archive/master.zip).
 * Unzip the downloaded Kbase SDK Installer at a convenient location on your harddisk. The archive will create `KbaseSDK` folder.
 * Open a **terminal** and change into `KbaseSDK` folder.
 * Type in the following command into the **terminal**
